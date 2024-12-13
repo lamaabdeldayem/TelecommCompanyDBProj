@@ -1,0 +1,1 @@
+﻿insert into Points_group values(1,2000,1)
